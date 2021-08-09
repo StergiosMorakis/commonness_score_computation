@@ -18,4 +18,4 @@ A modular approach to Commonness computation i.e., the probability of a mention 
 
 ### Author
 
-Stergios Morakis
+*Stergios Morakis*
