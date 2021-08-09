@@ -17,5 +17,4 @@ A modular approach to Commonness computation i.e., the probability of a mention 
 
 ### Author
 
-**Stergios Morakis**,  
-as part of his thesis Entity Linking for Greek.
+**Stergios Morakis**
